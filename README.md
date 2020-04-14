@@ -1,2 +1,2 @@
 # blockchain-java
-Simple block chain and cryptocurrency implementation using java
+Simple Blockchain and cryptocurrency implementation using java
